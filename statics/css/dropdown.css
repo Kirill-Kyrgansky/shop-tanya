@@ -12,12 +12,12 @@
 }
 
 .dropdown-content {
+    z-index: 2;
     margin-top: 30px;
     display: none;
     position: absolute;
     min-width: 160px;
     overflow: auto;
-    z-index: 1;
     padding: 50px 34px;
 }
 

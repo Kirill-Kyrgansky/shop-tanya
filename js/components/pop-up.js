@@ -1,8 +1,8 @@
 function setPopUp() {
     let headerText = `
-    <div class="section">
+    <div class="section pop-up">
     <div class="container">
-        <div class="border add-to-card center-column">
+        <div class="border add-to-card center-column pop-up-wrap">
             <h3 class="title-3 text-center max-300"> Товар добавлен в корзину</h3>
             <div class="flex flex-column">
                 <button class="link-button">продолжить покупки</button>
@@ -12,10 +12,11 @@ function setPopUp() {
     </div>
 </div>
 `;
-
     let popUp = document.createElement("div");
     popUp.innerHTML = headerText;
+    popUp.classList.add('show');
     document.body.insertAdjacentElement('beforeend', popUp);
+    setTimeout(()=> {
+        popUp.remove()
+    }, 1000)
 }
-
-setPopUp();

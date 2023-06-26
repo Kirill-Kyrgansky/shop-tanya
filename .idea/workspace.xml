@@ -5,79 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98caa94e-e029-4228-97a1-dc658ff35ddb" name="Changes" comment="create footer and header">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shop-tanya.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/components/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/components/gift-card/gift-card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/components/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/components/index/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/components/index/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/components/pop-up.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/components/ticker/ticker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/dropdown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/404/flower.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/about/flat_lay_composition_with_cosmetic_products_natural_organic_botany.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/about/mask-group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/about/woman-dealing-with-rosacea-using-serum-for-skin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/catalog/catal_body.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/catalog/catal_face.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/catalog/catal_hair.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/catalog/catal_merch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/arrow-width-line-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/bell.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/calender.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/camera.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/check-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/check.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/clipboard.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/cog.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/comment-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/cross.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/envelope.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/eye-slash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/eye.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/filter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/heart-full.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/info-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/location-point.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/lock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/shopping-bag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/shopping-basket.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/sliders-v.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/trash-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/trash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/img/icons/user.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/404/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/404/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/about/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/about/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shop-tanya.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shop-tanya.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/catalog/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/catalog/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/catalog/catalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/catalog/catalog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/delivery/delivery.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/delivery/delivery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/delivery/delivery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/delivery/delivery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/gift-card/gift-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/gift-card/gift-card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/pop-up.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/pop-up.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/product/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/product/product.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/product/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/product/product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/css/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/css/dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/dropdown.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/statics/css/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/font.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/statics/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/statics/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/data/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/statics/data/products.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/404/404.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,22 +50,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/allProject/work/shop-tanya/js/components",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/allProject/work/shop-tanya/js/components&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\allProject\work\shop-tanya\js\components" />
@@ -128,11 +73,11 @@
       <recent name="D:\AllProjects\project-shop\statics\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\allProject\work\shop-tanya\pages" />
       <recent name="D:\allProject\work\shop-tanya\js\components\ticker" />
       <recent name="D:\allProject\work\shop-tanya\js\components\gift-card" />
       <recent name="D:\allProject\work\shop-tanya\js\components\delivery" />
       <recent name="D:\allProject\work\shop-tanya\js\components\404" />
-      <recent name="D:\allProject\work\shop-tanya\js\components\index" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

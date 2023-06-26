@@ -117,4 +117,6 @@ window.onclick = function (event) {
 
 function transitionToType(type) {
     localStorage.setItem('type', type)
+    location.href='../catalog/catalog.html';
+
 }

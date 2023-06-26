@@ -1,3 +1,4 @@
+
 function setFooter() {
     let headerText = `
     <footer class="footer">
@@ -32,16 +33,16 @@ function setFooter() {
                     </div>
                     <div class="mr-20">
                         <h4 class="title-3">О нас</h4>
-                        <a class="link link-tiny text-gray" href="../about/about.html"><p class="mb-10">производство</p></a>
-                        <a class="link link-tiny text-gray" href="https://spb.hh.ru/vacancy/81781547?from=vacancy_search_list&query=%D0%B2%D0%BA%D1%83%D1%81%D0%BD%D0%BE%20%D0%B8%20%D1%82%D0%BE%D1%87%D0%BA%D0%B0"><p class="mb-10">карьера</p></a>
-                        <a class="link link-tiny text-gray" href="../delivery/delivery.html"><p class="mb-10">адреса магазинов</p></a>
+                        <p class="mb-10" ><a href="../about/about.html" class=" link link-tiny text-gray">производство</a></p>
+                        <p class="mb-10" ><a href="https://spb.hh.ru/vacancy/81781547?from=vacancy_search_list&query=%D0%B2%D0%BA%D1%83%D1%81%D0%BD%D0%BE%20%D0%B8%20%D1%82%D0%BE%D1%87%D0%BA%D0%B0" class=" link link-tiny text-gray">карьера</a></p>
+                        <p class="mb-10" ><a href="../delivery/delivery.html" class=" link link-tiny text-gray">адреса магазинов</a></p>
                     </div>
                     <div>
                         <h4 class="title-3">Доставка</h4>
-                        <a class="link link-tiny text-gray" href="../delivery/delivery.html"><p class="mb-10">способы получения</p></a>
-                        <a class="link link-tiny text-gray" href="../gift-card/gift-card.html"><p class="mb-10">подарочные сертификаты</p></a>
-                        <a class="link link-tiny text-gray" href="../gift-card/gift-card.html"><p class="mb-10">клубная карта</p></a>
-                        <a class="link link-tiny text-gray" href="../404/404.html"><p class="mb-10">оплата</p</a>
+                        <p class="mb-10" ><a href="../delivery/delivery.html" class=" link link-tiny text-gray">способы получения</a></p>
+                        <p class="mb-10" ><a href="../gift-card/gift-card.html" class=" link link-tiny text-gray">подарочные сертификаты</a></p>
+                        <p class="mb-10" ><a href="../gift-card/gift-card.html" class=" link link-tiny text-gray">клубная карта</a></p>
+                        <p class="mb-10" ><a href="../404/404.html" class=" link link-tiny text-gray">оплата</a></p>
                     </div>
                 </div>
                 <div>

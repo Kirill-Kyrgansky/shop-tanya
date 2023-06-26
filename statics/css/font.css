@@ -24,18 +24,18 @@
     color: #FFFFFF;
 }
 .title-3 {
-     font-family: 'Druk-Wide-Cy-Web', sans-serif;
-     font-style: normal;
-     font-weight: 500;
-     font-size: 27px;
-     color: #FFFFFF;
+     font-family: 'Druk-Wide-Cy-Web', sans-serif !important;
+     font-style: normal !important;
+     font-weight: 500 !important;
+     font-size: 27px !important;
+     color: #FFFFFF !important;
  }
 
 .title-4 {
-    font-family: 'Druk-Wide-Cy-Web', sans-serif;
+    font-family: 'Druk-Wide-Cy-Web', sans-serif ;
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 20px !important;
     color: #FFFFFF;
 }
 

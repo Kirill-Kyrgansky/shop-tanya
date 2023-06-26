@@ -48,13 +48,15 @@
         <div class="radius border p-35-40">
             <p class="title-3 mb-40">Есть бесплатная доставка!</p>
             <div class="free-delivery">
-                <div class="border radius p-16-30 w-full check-city ">
-                    <p class="title-3">Белгород</p>
+                <div onclick="changeCity()" id="changeCity" class="border radius p-16-30 w-full check-city ">
+                    <p class="title-3" id="city"></p>
                     <img src="../../../statics/img/icons/cross.svg" alt="">
+                </div>
+                <div id="cityWrap" class="border radius p-26-40 city-wrap">
                 </div>
                 <p class="title-3 w-full">
                     <span class="text-blue">Бесплатно доставим заказ от 4 900 ₽ </span>
-                    в Белгород в пункт выдачи партнёров
+                    в <span id="cityDelivery"></span> в пункт выдачи партнёров
                 </p>
             </div>
         </div>

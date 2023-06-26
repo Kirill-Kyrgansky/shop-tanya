@@ -11,6 +11,11 @@ html {
 
 body {
     padding: 50px 0 70px 0;
+    position: relative;
+}
+
+#delivery {
+    right: 0;
 }
 
 .section {
@@ -58,6 +63,10 @@ body {
     padding: 16px 30px;
 }
 
+.p-26-40 {
+    padding: 26px 40px;
+}
+
 .p-35-40 {
     padding: 35px 40px;
 }
@@ -72,6 +81,10 @@ body {
 
 .flex-end {
     justify-content: flex-end;
+}
+
+.flex-center {
+    justify-content: center;
 }
 
 .space-between {
@@ -297,6 +310,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
 
 .input-delivery {
@@ -353,4 +367,110 @@ body {
 
 .product-description {
     max-width: 630px;
+}
+
+.product-list-img-wrap {
+    max-width: 306px;
+    max-height: 300px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+
+
+.product-list-img {
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    position: relative;
+    top: -60px;
+}
+
+
+.product-list {
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.product-wrap-element {
+    padding: 10px 10px;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.slider-img {
+    width: 100%;
+}
+
+.swiper-slide {
+    height: auto;
+}
+
+.relative {
+    position: relative;
+}
+
+.bottom-wrap-slider {
+    width: 520px ;
+    position: absolute;
+    right: 0;
+    bottom: 4px;
+    border-radius: 16px 0 0 0;
+    z-index: 9999;
+    height: 108px;
+    background-color: #151515;
+    display: flex;
+    align-items: flex-end;
+}
+
+.swiper-button-next {
+    width: 50px !important;
+    height: 83% !important;
+    display: block !important;
+    top: 0 !important;
+    content: none !important;
+    opacity: 0 !important;
+}
+
+.swiper-button-prev {
+    width: 50px !important;
+    height: 100% !important;
+    display: block !important;
+    top: 0 !important;
+    content: none !important;
+    opacity: 0 !important;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.pop-up {
+    position: fixed;
+    right: -60px;
+    bottom: 0;
+}
+
+.pop-up-wrap {
+    padding: 50px 100px;
+}
+
+.city-wrap {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    z-index: 2;
+    overflow: auto;
+    max-height: 300px;
 }
